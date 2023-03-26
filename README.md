@@ -318,7 +318,7 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
 <li><a href="#react-hooks">React Hooks</a></li>
 </ul>
 </li>
-<li><a href="#manual-header-ii">Manual Header II</a></li>
+<li><a href="#manual-header-ii">Manual Headers II</a></li>
 <li><a href="#useeffect-hook">useEffect Hook</a></li>
 <li><a href="#local-storage">Local Storage</a></li>
 <li><a href="#isweb3enabledloading">isWeb3EnabledLoading</a></li>
